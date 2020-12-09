@@ -1,0 +1,8 @@
+/logging/
+
+.classpath
+.gitignore.txt
+.project
+.settings/
+bin/
+target/
