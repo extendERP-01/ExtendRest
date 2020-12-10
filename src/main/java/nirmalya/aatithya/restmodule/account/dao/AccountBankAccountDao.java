@@ -33,7 +33,7 @@ import nirmalya.aatithya.restmodule.common.utils.JsonResponse;
  */
 @Repository
 public class AccountBankAccountDao {
-	
+	//new data
 	Logger logger = LoggerFactory.getLogger(AccountBankAccountDao.class);
 	@Autowired
 	ServerDao serverDao;
